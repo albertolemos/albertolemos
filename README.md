@@ -1,6 +1,6 @@
 ## Olá, tudo bem?
 
-> Atualmente trabalho como desenvolvedor web com Angular e NodeJS na Joy Street + Proz.
+> Atualmente trabalho como desenvolvedor web com NodeJS na EY.
 > Além de desenvolver sistemas, também gosto muito de curtir a minha família, viajar e tocar meu violão.
 
 💬 Gostaria de entrar em contato ? 
