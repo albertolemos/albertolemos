@@ -1,6 +1,6 @@
 ## Olá, tudo bem?
 
-> Atualmente trabalho como desenvolvedor web com NodeJS na EY.
+> Atualmente trabalho como desenvolvedor fullstack com Node.js e Vue.js na EY.
 > Além de desenvolver sistemas, também gosto muito de curtir a minha família, viajar e tocar meu violão.
 
 💬 Gostaria de entrar em contato ? 
